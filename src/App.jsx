@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import Header from './components/header/header';
 import Navbar from './components/Navbar/navbar';
 import About from './components/about/about';
@@ -9,22 +9,19 @@ import Testimonial from './components/testimonials/testimonial';
 import Contact from './components/contact/contact';
 import Footer from './components/Footer/footer';
 
-const App = () => {
-  return (
-      <>
-      <Header/>
-      <Navbar/>
-      <About/>
-      <Experience/>
-      <Services/>
-      <Portfolio/>
-      <Testimonial/>
-      <Contact/>
-      <Footer/>
-      </>
-    
-  )
-}
+const App = () => (
+  <>
+    <Header />
+    <Navbar />
+    <About />
+    <Experience />
+    <Services />
+    <Portfolio />
+    <Testimonial />
+    <Contact />
+    <Footer />
+  </>
+
+);
 
 export default App;
-
