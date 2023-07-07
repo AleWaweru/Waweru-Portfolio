@@ -111,7 +111,6 @@ textarea {
   font-size: 0.9rem;
 }
 
-
 /* ***************MEDIUM QUERIES (MEDIUM DEVICE)********** */
 @media screen and (max-width: 1024px) {
   .container.contact__container {

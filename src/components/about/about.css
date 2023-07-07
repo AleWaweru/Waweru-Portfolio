@@ -71,8 +71,6 @@
   color: var(--color-light);
 }
 
-
-
 /* ***************MEDIUM QUERIES (MEDIUM DEVICE)********** */
 @media screen and (max-width: 1024px) {
   .about__container {

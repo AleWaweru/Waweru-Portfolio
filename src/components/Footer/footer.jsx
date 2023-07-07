@@ -1,15 +1,16 @@
 import React from 'react';
 import './footer.css';
-import {FaFacebookF} from 'react-icons/fa'
-import {FiInstagram} from 'react-icons/fi'
-import {IoLogoTwitter} from 'react-icons/io'
-
+import { FaFacebookF } from 'react-icons/fa';
+import { AiFillLinkedin } from 'react-icons/ai';
+import { IoLogoTwitter } from 'react-icons/io';
 
 const Footer = () => (
   <footer>
-    <a href="#" className='footer__logo'>WAWERU</a>
+    {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
+    <a href="#" className="footer__logo">WAWERU</a>
 
-    <ul className='permalinks'>
+    <ul className="permalinks">
+      {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
       <li><a href="#">Home</a></li>
       <li><a href="#about">About</a></li>
       <li><a href="#experience">Experience</a></li>
@@ -20,9 +21,9 @@ const Footer = () => (
     </ul>
 
     <div className="footer__socials">
-      <a href="https://facebook.com"><FaFacebookF/></a>
-      <a href="https://instagram.com"><FiInstagram/></a>
-      <a href="https://twitter.com"><IoLogoTwitter/></a>
+      <a href="https://www.facebook.com/alex.nganga.792"><FaFacebookF /></a>
+      <a href="https://www.linkedin.com/in/alewaweru/"><AiFillLinkedin /></a>
+      <a href="https://twitter.com/ngashalex"><IoLogoTwitter /></a>
     </div>
 
     <div className="footer__copyright">

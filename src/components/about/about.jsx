@@ -14,7 +14,7 @@ const About = () => (
 
       <div className="about__me">
         <div className="about__me-image">
-          <img src={ME} alt="image-4" />
+          <img src={ME} alt="me" />
         </div>
       </div>
 
@@ -45,7 +45,7 @@ const About = () => (
           Mollitia accusantium delectus animi saepe nisi! Iure, praesentium.
         </p>
 
-        <a href="$contact" className="btn btn-primary">Let's Talk</a>
+        <a href="#contact" className="btn btn-primary">Let's Talk</a>
       </div>
     </div>
   </section>
