@@ -39,10 +39,10 @@ const About = () => (
           </article>
         </div>
         <p>
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-          Fugiat, ex distinctio quae atque dolorum reiciendis iure,
-          officia rerum adipisci illum quod blanditiis!
-          Mollitia accusantium delectus animi saepe nisi! Iure, praesentium.
+        My name is Alex Waweru, a highly skilled and ambitious software developer, 
+        equipped with the latest technologies and a strong educational background. 
+        With a bachelor's degree under my belt, I possess expertise in a wide array of programming languages and tools, including WordPress, HTML, CSS, Bootstrap, PHP, JavaScript, React JS, and REST APIs. My proficiency extends beyond coding as I also have valuable soft skills in SEO, 
+        utilizing Google Console and Google Analytics effectively.
         </p>
 
         <a href="#contact" className="btn btn-primary">Let's Talk</a>
