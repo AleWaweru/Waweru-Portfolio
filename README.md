@@ -30,7 +30,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Space-Travelers-Hub Project] <a name="about-project"></a>
+# 📖 [Waweru-Portfolio] <a name="about-project"></a>
 
 **[Waweru-Portfolio]** is a react app created using React  front-end library.
 
