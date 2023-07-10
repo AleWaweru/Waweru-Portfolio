@@ -53,7 +53,7 @@ const Portfolio = () => {
       image: PortIMG,
       title: 'Portfolio',
       github: 'https://github.com/AleWaweru/Waweru-Portfolio',
-      demo: 'https://dribbble.com/Alien_pixels',
+      demo: 'https://portfolio-1frp.onrender.com/',
     },
   ];
   return (

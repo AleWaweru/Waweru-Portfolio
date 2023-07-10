@@ -55,7 +55,7 @@
 
 ### Live Demo <a name="live-demo"></a>
 
-...coming soon
+[Live Demo](https://portfolio-1frp.onrender.com/)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -137,7 +137,7 @@ You can deploy this project using **[Render](https://render.com/)**
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/rahimialijan/Space-Travelers-Hub/src).
+Feel free to check the [issues page](https://github.com/AleWaweru/Waweru-Portfolio/src).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
