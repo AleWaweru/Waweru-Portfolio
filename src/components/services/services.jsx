@@ -16,23 +16,19 @@ const Services = () => (
         <ul className="service__list">
           <li>
             <BiCheck className="service__list-icon" />
-            <p>Lorem ipsum dolor consectetur adipisicing elit.</p>
+            <p>Mobile applications</p>
           </li>
           <li>
             <BiCheck className="service__list-icon" />
-            <p>Lorem ipsum dolor consectetur adipisicing elit.</p>
+            <p>Web applications</p>
           </li>
           <li>
             <BiCheck className="service__list-icon" />
-            <p>Lorem ipsum dolor consectetur adipisicing elit.</p>
+            <p>E-commerce websites</p>
           </li>
           <li>
             <BiCheck className="service__list-icon" />
-            <p>Lorem ipsum dolor consectetur adipisicing elit.</p>
-          </li>
-          <li>
-            <BiCheck className="service__list-icon" />
-            <p>Lorem ipsum dolor consectetur adipisicing elit.</p>
+            <p>Dashboard interfaces</p>
           </li>
         </ul>
       </article>
@@ -47,23 +43,19 @@ const Services = () => (
         <ul className="service__list">
           <li>
             <BiCheck className="service__list-icon" />
-            <p>Lorem ipsum dolor consectetur adipisicing elit.</p>
+            <p>Frontend Development</p>
           </li>
           <li>
             <BiCheck className="service__list-icon" />
-            <p>Lorem ipsum dolor consectetur adipisicing elit.</p>
+            <p>Mobile Application.</p>
           </li>
           <li>
             <BiCheck className="service__list-icon" />
-            <p>Lorem ipsum dolor consectetur adipisicing elit.</p>
+            <p>Web Applications</p>
           </li>
           <li>
             <BiCheck className="service__list-icon" />
-            <p>Lorem ipsum dolor consectetur adipisicing elit.</p>
-          </li>
-          <li>
-            <BiCheck className="service__list-icon" />
-            <p>Lorem ipsum dolor consectetur adipisicing elit.</p>
+            <p>Web Maintainance and Update</p>
           </li>
         </ul>
       </article>
@@ -78,23 +70,20 @@ const Services = () => (
         <ul className="service__list">
           <li>
             <BiCheck className="service__list-icon" />
-            <p>Lorem ipsum dolor consectetur adipisicing elit.</p>
+            <p>Content Strategy</p>
           </li>
           <li>
             <BiCheck className="service__list-icon" />
-            <p>Lorem ipsum dolor consectetur adipisicing elit.</p>
+            <p>Social Media Management</p>
           </li>
           <li>
             <BiCheck className="service__list-icon" />
-            <p>Lorem ipsum dolor consectetur adipisicing elit.</p>
+            <p>Blogging</p>
           </li>
           <li>
             <BiCheck className="service__list-icon" />
-            <p>Lorem ipsum dolor consectetur adipisicing elit.</p>
-          </li>
-          <li>
-            <BiCheck className="service__list-icon" />
-            <p>Lorem ipsum dolor consectetur adipisicing elit.</p>
+            <p>Copywriting for marketing materials, websites, advertisements, 
+              social media posts, blog articles, product descriptions, and more</p>
           </li>
         </ul>
       </article>

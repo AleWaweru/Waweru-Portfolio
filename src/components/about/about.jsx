@@ -3,7 +3,7 @@ import './about.css';
 import { FaAward } from 'react-icons/fa';
 import { FiUsers } from 'react-icons/fi';
 import { VscFolderLibrary } from 'react-icons/vsc';
-import ME from '../../assets/image4.jpg';
+import ME from '../../assets/profile.jpeg';
 
 const About = () => (
   <section id="about">
@@ -29,19 +29,22 @@ const About = () => (
           <article className="about__card">
             <FiUsers className="about__icon" />
             <h5>Clients</h5>
-            <small>200+ WorldWide</small>
+            <small>50+ WorldWide</small>
           </article>
 
           <article className="about__card">
             <VscFolderLibrary className="about__icon" />
             <h5>Projects</h5>
-            <small>80+ Completed</small>
+            <small>20+ Completed</small>
           </article>
         </div>
         <p>
         My name is Alex Waweru, a highly skilled and ambitious software developer, 
         equipped with the latest technologies and a strong educational background. 
-        With a bachelor's degree under my belt, I possess expertise in a wide array of programming languages and tools, including WordPress, HTML, CSS, Bootstrap, PHP, JavaScript, React JS, and REST APIs. My proficiency extends beyond coding as I also have valuable soft skills in SEO, 
+        With a bachelor's degree under my belt, I possess expertise in a wide array of 
+        programming languages and tools, including WordPress, HTML, CSS, Bootstrap, PHP, 
+        JavaScript, React JS, Redux and REST APIs. 
+        My proficiency extends beyond coding as I also have valuable soft skills in SEO, 
         utilizing Google Console and Google Analytics effectively.
         </p>
 

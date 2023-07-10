@@ -1,53 +1,58 @@
 import React from 'react';
 import './portfolio.css';
 
-import IMG1 from '../../assets/image5.jpg';
+import SpaceIMG from '../../assets/spacehub.png';
+import CryptoIMG from '../../assets/crypto.png';
+import CalcIMG from '../../assets/Calc.png';
+import TodoIMG from '../../assets/Todo.png';
+import BookIMG from '../../assets/bookstore.png';
+import PortIMG from '../../assets/portfolio.png';
 
 const Portfolio = () => {
   const data = [
     {
       id: 1,
-      image: IMG1,
+      image: SpaceIMG,
       title: 'Space Travel-Hub',
-      github: 'https://github.com',
-      demo: 'https://dribbble.com/Alien_pixels',
+      github: 'https://github.com/AleWaweru/Space-Travelers-Hub',
+      demo: 'https://space-travel-594o.onrender.com',
     },
 
     {
       id: 2,
-      image: IMG1,
-      title: 'Space Travel-Hub',
-      github: 'https://github.com',
-      demo: 'https://dribbble.com/Alien_pixels',
+      image: CryptoIMG,
+      title: 'Crptopanel',
+      github: 'https://github.com/AleWaweru/metric-webApp-cryptoPanel',
+      demo: 'https://cryptopanel.onrender.com/Cryptopanel',
     },
 
     {
       id: 3,
-      image: IMG1,
-      title: 'Space Travel-Hub',
-      github: 'https://github.com',
-      demo: 'https://dribbble.com/Alien_pixels',
+      image: CalcIMG,
+      title: 'Math Magicians',
+      github: 'https://github.com/AleWaweru/Math-Magicians',
+      demo: 'https://math-magician-rx0g.onrender.com/',
     },
 
     {
       id: 4,
-      image: IMG1,
-      title: 'Space Travel-Hub',
-      github: 'https://github.com',
-      demo: 'https://dribbble.com/Alien_pixels',
+      image: TodoIMG,
+      title: 'Todo-List',
+      github: 'https://github.com/AleWaweru/TODO-LIST',
+      demo: 'https://alewaweru.github.io/TODO-LIST/dist/',
     },
     {
       id: 5,
-      image: IMG1,
-      title: 'Space Travel-Hub',
-      github: 'https://github.com',
-      demo: 'https://dribbble.com/Alien_pixels',
+      image: BookIMG,
+      title: 'Bookstore',
+      github: 'https://github.com/AleWaweru/Bookstore',
+      demo: 'https://book-store-fwot.onrender.com/',
     },
     {
       id: 6,
-      image: IMG1,
-      title: 'Space Travel-Hub',
-      github: 'https://github.com',
+      image: PortIMG,
+      title: 'Portfolio',
+      github: 'https://github.com/AleWaweru/Waweru-Portfolio',
       demo: 'https://dribbble.com/Alien_pixels',
     },
   ];
