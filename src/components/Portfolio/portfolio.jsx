@@ -6,7 +6,7 @@ import CryptoIMG from '../../assets/crypto.png';
 import CalcIMG from '../../assets/Calc.png';
 import TodoIMG from '../../assets/Todo.png';
 import BookIMG from '../../assets/bookstore.png';
-import PortIMG from '../../assets/portfolio.png';
+import PortIMG from '../../assets/hotelHub.png';
 
 const Portfolio = () => {
   const data = [
@@ -51,15 +51,14 @@ const Portfolio = () => {
     {
       id: 6,
       image: PortIMG,
-      title: 'Portfolio',
-      github: 'https://github.com/AleWaweru/Waweru-Portfolio',
-      demo: 'https://portfolio-1frp.onrender.com/',
+      title: 'Hotel-Hub',
+      github: 'https://github.com/ProgramKingAbel/hotel-hub-backend',
+      demo: 'https://hotel-hub-app.onrender.com/',
     },
   ];
   return (
     <section id="portfolio">
-      <h5>My Recent Work</h5>
-      <h2>Portfolio</h2>
+      <h2>My Recent Work</h2>
 
       <div className="container portfolio__container">
         {

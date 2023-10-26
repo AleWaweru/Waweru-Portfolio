@@ -26,11 +26,11 @@ const About = () => (
             <small>3+ Years Working</small>
           </article>
 
-          <article className="about__card">
+          {/* <article className="about__card">
             <FiUsers className="about__icon" />
             <h5>Clients</h5>
             <small>50+ WorldWide</small>
-          </article>
+          </article> */}
 
           <article className="about__card">
             <VscFolderLibrary className="about__icon" />
@@ -43,7 +43,7 @@ const About = () => (
         equipped with the latest technologies and a strong educational background. 
         With a bachelor's degree under my belt, I possess expertise in a wide array of 
         programming languages and tools, including WordPress, HTML, CSS, Bootstrap, PHP, 
-        JavaScript, React JS, Redux and REST APIs. 
+        JavaScript, React JS,Ruby on Rails, Mysql, Postgres, Redux and REST APIs. 
         My proficiency extends beyond coding as I also have valuable soft skills in SEO, 
         utilizing Google Console and Google Analytics effectively.
         </p>

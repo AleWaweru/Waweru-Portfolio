@@ -27,13 +27,13 @@ const Navbar = () => {
       >
         <MdWorkOutline />
       </a>
-      <a
+      {/* <a
         href="#services"
         onClick={() => setActiveNav('#services')}
         className={activeNav === '#services' ? 'active' : ''}
       >
         <FcServices />
-      </a>
+      </a> */}
       <a
         href="#contact"
         onClick={() => setActiveNav('#contact')}
